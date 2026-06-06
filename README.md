@@ -1,4 +1,4 @@
-💫 About Me:
+**💫 About Me:**
 Aspiring Product Manager | Data Analytics & Product Strategy | EdTech Business Development | MCA | MBA
 
 <div align="center">
@@ -7,9 +7,10 @@ Aspiring Product Manager | Data Analytics & Product Strategy | EdTech Business D
 
 ### **AI Product Builder** · **LLM & Data Strategy** · **EdTech Innovation**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+intelligent+products;AI+%2B+Product+Strategy;Turning+data+into+decisions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=0%E2%86%921+product+builder+%7C+full-stack+engineer;Shipped+egnconnectx.com+%C2%B7+SEO+%2B+conversion+flows;HTML%2FCSS%2FJS+%C2%B7+responsive+UI+%C2%B7+performance-first;Product+roadmaps+%E2%86%92+technical+execution;LLM+apps+%C2%B7+RAG+%C2%B7+data-driven+decisions)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandeeppandey6800/)
+[![Live Site](https://img.shields.io/badge/Live-egnconnectx.com-1453BC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://egnconnectx.com/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sandeeppandey6800@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sndp6800)
 
@@ -21,15 +22,16 @@ Aspiring Product Manager | Data Analytics & Product Strategy | EdTech Business D
 
 ```typescript
 const sandeep = {
-  role: "AI Product Manager & Builder",
+  role: "Product Manager × Full-Stack Builder",
   education: ["MCA", "MBA"],
-  focus: ["LLM Applications", "AI Product Strategy", "Data Analytics", "EdTech"],
-  currently: "Designing AI-native products that solve real user problems",
-  interests: ["Generative AI", "RAG Pipelines", "Prompt Engineering", "Agentic Workflows"],
+  stack: ["HTML/CSS/JS", "React", "Next.js", "Node.js", "Python", "AWS"],
+  product: ["0→1 launches", "User flows", "Conversion funnels", "SEO & growth"],
+  ai: ["LLM apps", "RAG pipelines", "Prompt engineering", "Agentic workflows"],
+  shipped: "egnconnectx.com — live EdTech exhibition platform",
 };
 ```
 
-I'm an **AI-focused product builder** at the intersection of **machine learning, data, and business strategy**. I design and ship intelligent products — from LLM-powered apps to analytics-driven EdTech solutions — with a product mindset and a modern full-stack toolkit.
+I don't just spec products — **I ship them**. I pair **product thinking** (user research, funnel design, roadmap prioritization) with **hands-on engineering** (frontend, backend, SEO, deployment) to take ideas from concept to production. Currently building at the intersection of **AI, data, and EdTech**.
 
 ---
 
@@ -75,12 +77,12 @@ I'm an **AI-focused product builder** at the intersection of **machine learning,
 
 ## 🚀 What I Build
 
-| Domain | Focus |
-|--------|-------|
-| **AI Products** | LLM apps, chatbots, RAG systems, AI copilots |
-| **Data & Analytics** | Dashboards, insights pipelines, product metrics |
-| **EdTech** | Learning platforms, AI tutoring, growth strategy |
-| **Full-Stack** | React / Next.js apps with modern cloud deployment |
+| Domain | Product Focus | Technical Delivery |
+|--------|---------------|------------------|
+| **AI Products** | Use-case discovery, prompt design, UX for AI | LLM APIs, RAG, agents, Python pipelines |
+| **EdTech Platforms** | Funnels, onboarding, stakeholder journeys | Full-stack web apps, SEO, responsive UI |
+| **Data & Analytics** | KPIs, dashboards, product decisions | SQL, Python, visualization layers |
+| **0→1 Launches** | MVP scoping, roadmap, go-to-market | React / Next.js, Node.js, AWS / Vercel |
 
 ---
 
@@ -94,6 +96,24 @@ I'm an **AI-focused product builder** at the intersection of **machine learning,
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sndp6800&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact&langs_count=8" height="165" alt="Top Languages"/>
 
 </div>
+
+---
+
+## 🌟 Spotlight — [EGN Connect X](https://egnconnectx.com/)
+
+> **Live at [egnconnectx.com](https://egnconnectx.com/)** · 0→1 · Designed, built & deployed end-to-end
+
+India's premier **Education Exhibition & Conference** — **20,000+ visitors**, **300+ brands**, **NESCO Mumbai · Nov 3–4, 2026**.
+
+| 🎯 Product | ⚙️ Technical |
+|------------|--------------|
+| Defined user journeys for visitors, exhibitors & delegates | Semantic HTML5 + modular CSS architecture |
+| Registration & stall-booking conversion funnels | Vanilla JS — forms, validation, intl-tel-input |
+| Event discovery, awards, gallery & contact flows | Mobile-first responsive layout + nav drawer |
+| SEO strategy — meta, OG tags, geo & schema-ready | Performance hints — preconnect, lazy assets, web manifest |
+| Stakeholder-ready pages for schools, universities & EdTech | Production deployment on custom domain |
+
+**Impact:** A single platform that turns a large-scale offline EdTech summit into a scalable digital product — discoverable, registrable, and bookable online.
 
 ---
 
@@ -113,7 +133,7 @@ I'm an **AI-focused product builder** at the intersection of **machine learning,
 
 <div align="center">
 
-### 💡 *"The best AI products aren't just smart — they're useful."*
+### 💡 *"Great products start with user problems — great engineers ship the solution."*
 
 <img src="https://komarev.com/ghpvc/?username=sndp6800&label=Profile%20Views&color=00d4ff&style=flat" alt="Profile Views"/>
 
