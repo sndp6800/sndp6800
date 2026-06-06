@@ -5,32 +5,35 @@ Aspiring Product Manager | Data Analytics & Product Strategy | EdTech Business D
 
 # Hi, I'm Sandeep 👋
 
-### **AI Product Builder** · **LLM & Data Strategy** · **EdTech Innovation**
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Creator+of+egnconnectx.com;India%27s+EdTech+Exhibition+%26+Conference;Connecting+20%2C000%2B+visitors+%26+300%2B+brands;AI+%2B+Product+Strategy+%7C+EdTech+Innovation)](https://git.io/typing-svg)
+# Hi, I'm Sandeep 👋
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1200&color=00D4FF&center=true&vCenter=true&width=500&lines=AI+Product+Builder;Creator+of+egnconnectx.com;EdTech+%26+Data+Strategy)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandeeppandey6800/)
 [![Live Site](https://img.shields.io/badge/Live-egnconnectx.com-1453BC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://egnconnectx.com/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sandeeppandey6800@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sndp6800)
 
 </div>
 
 ---
 
-## 🧠 About Me
+## About Me
 
 ```typescript
 const sandeep = {
-  role: "AI Product Manager & Builder",
+  role: "AI Product Builder",
   education: ["MCA", "MBA"],
-  focus: ["LLM Applications", "AI Product Strategy", "Data Analytics", "EdTech"],
-  currently: "Building egnconnectx.com — India's premier EdTech exhibition platform",
-  interests: ["Generative AI", "RAG Pipelines", "Prompt Engineering", "Agentic Workflows"],
+  focus: ["AI Products", "EdTech", "Data Strategy"],
+  building: "egnconnectx.com",
 };
 ```
 
-I'm an **AI-focused product builder** at the intersection of **machine learning, data, and business strategy**. I design and ship intelligent products — from LLM-powered apps to analytics-driven EdTech solutions — with a product mindset and a modern full-stack toolkit.
+Building AI-driven products at the crossroads of **EdTech**, **data**, and **full-stack development**.
+
+---
+
 
 ---
 
@@ -42,7 +45,6 @@ I'm an **AI-focused product builder** at the intersection of **machine learning,
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
