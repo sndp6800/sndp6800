@@ -7,7 +7,7 @@ Aspiring Product Manager | Data Analytics & Product Strategy | EdTech Business D
 
 ### **AI Product Builder** · **LLM & Data Strategy** · **EdTech Innovation**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=0%E2%86%921+product+builder+%7C+full-stack+engineer;Shipped+egnconnectx.com+%C2%B7+SEO+%2B+conversion+flows;HTML%2FCSS%2FJS+%C2%B7+responsive+UI+%C2%B7+performance-first;Product+roadmaps+%E2%86%92+technical+execution;LLM+apps+%C2%B7+RAG+%C2%B7+data-driven+decisions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Creator+of+egnconnectx.com;India%27s+EdTech+Exhibition+%26+Conference;Connecting+20%2C000%2B+visitors+%26+300%2B+brands;AI+%2B+Product+Strategy+%7C+EdTech+Innovation)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandeeppandey6800/)
 [![Live Site](https://img.shields.io/badge/Live-egnconnectx.com-1453BC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://egnconnectx.com/)
@@ -22,16 +22,15 @@ Aspiring Product Manager | Data Analytics & Product Strategy | EdTech Business D
 
 ```typescript
 const sandeep = {
-  role: "Product Manager × Full-Stack Builder",
+  role: "AI Product Manager & Builder",
   education: ["MCA", "MBA"],
-  stack: ["HTML/CSS/JS", "React", "Next.js", "Node.js", "Python", "AWS"],
-  product: ["0→1 launches", "User flows", "Conversion funnels", "SEO & growth"],
-  ai: ["LLM apps", "RAG pipelines", "Prompt engineering", "Agentic workflows"],
-  shipped: "egnconnectx.com — live EdTech exhibition platform",
+  focus: ["LLM Applications", "AI Product Strategy", "Data Analytics", "EdTech"],
+  currently: "Building egnconnectx.com — India's premier EdTech exhibition platform",
+  interests: ["Generative AI", "RAG Pipelines", "Prompt Engineering", "Agentic Workflows"],
 };
 ```
 
-I don't just spec products — **I ship them**. I pair **product thinking** (user research, funnel design, roadmap prioritization) with **hands-on engineering** (frontend, backend, SEO, deployment) to take ideas from concept to production. Currently building at the intersection of **AI, data, and EdTech**.
+I'm an **AI-focused product builder** at the intersection of **machine learning, data, and business strategy**. I design and ship intelligent products — from LLM-powered apps to analytics-driven EdTech solutions — with a product mindset and a modern full-stack toolkit.
 
 ---
 
@@ -77,12 +76,12 @@ I don't just spec products — **I ship them**. I pair **product thinking** (use
 
 ## 🚀 What I Build
 
-| Domain | Product Focus | Technical Delivery |
-|--------|---------------|------------------|
-| **AI Products** | Use-case discovery, prompt design, UX for AI | LLM APIs, RAG, agents, Python pipelines |
-| **EdTech Platforms** | Funnels, onboarding, stakeholder journeys | Full-stack web apps, SEO, responsive UI |
-| **Data & Analytics** | KPIs, dashboards, product decisions | SQL, Python, visualization layers |
-| **0→1 Launches** | MVP scoping, roadmap, go-to-market | React / Next.js, Node.js, AWS / Vercel |
+| Domain | Focus |
+|--------|-------|
+| **AI Products** | LLM apps, chatbots, RAG systems, AI copilots |
+| **Data & Analytics** | Dashboards, insights pipelines, product metrics |
+| **EdTech** | Learning platforms, AI tutoring, growth strategy |
+| **Full-Stack** | React / Next.js apps with modern cloud deployment |
 
 ---
 
@@ -101,19 +100,13 @@ I don't just spec products — **I ship them**. I pair **product thinking** (use
 
 ## 🌟 Spotlight — [EGN Connect X](https://egnconnectx.com/)
 
-> **Live at [egnconnectx.com](https://egnconnectx.com/)** · 0→1 · Designed, built & deployed end-to-end
+> **Live at [egnconnectx.com](https://egnconnectx.com/)** · Built & shipped end-to-end
 
-India's premier **Education Exhibition & Conference** — **20,000+ visitors**, **300+ brands**, **NESCO Mumbai · Nov 3–4, 2026**.
+**EGN Connect X** is India's premier **Education Exhibition & Conference** platform — connecting **20,000+ visitors**, **300+ brands**, schools, universities, EdTech innovators, investors, and policymakers at **NESCO Mumbai, Nov 3–4, 2026**.
 
-| 🎯 Product | ⚙️ Technical |
-|------------|--------------|
-| Defined user journeys for visitors, exhibitors & delegates | Semantic HTML5 + modular CSS architecture |
-| Registration & stall-booking conversion funnels | Vanilla JS — forms, validation, intl-tel-input |
-| Event discovery, awards, gallery & contact flows | Mobile-first responsive layout + nav drawer |
-| SEO strategy — meta, OG tags, geo & schema-ready | Performance hints — preconnect, lazy assets, web manifest |
-| Stakeholder-ready pages for schools, universities & EdTech | Production deployment on custom domain |
+I designed and developed the full website — event pages, registration flows, stall booking, awards showcase, and a mobile-responsive experience built for scale.
 
-**Impact:** A single platform that turns a large-scale offline EdTech summit into a scalable digital product — discoverable, registrable, and bookable online.
+`HTML` · `CSS` · `JavaScript` · `SEO` · `Responsive UI` · `EdTech`
 
 ---
 
@@ -133,7 +126,7 @@ India's premier **Education Exhibition & Conference** — **20,000+ visitors**, 
 
 <div align="center">
 
-### 💡 *"Great products start with user problems — great engineers ship the solution."*
+### 💡 *"The best AI products aren't just smart — they're useful."*
 
 <img src="https://komarev.com/ghpvc/?username=sndp6800&label=Profile%20Views&color=00d4ff&style=flat" alt="Profile Views"/>
 
