@@ -5,11 +5,7 @@ Aspiring Product Manager | Data Analytics & Product Strategy | EdTech Business D
 
 # Hi, I'm Sandeep 👋
 
-<div align="center">
-
-# Hi, I'm Sandeep 👋
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1200&color=00D4FF&center=true&vCenter=true&width=500&lines=AI+Product+Builder;Creator+of+egnconnectx.com;EdTech+%26+Data+Strategy)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1200&color=00D4FF&center=true&vCenter=true&width=500&lines=AI+Product+Builder;Contributor+of+egnconnectx.com;EdTech+%26+Data+Strategy)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandeeppandey6800/)
 [![Live Site](https://img.shields.io/badge/Live-egnconnectx.com-1453BC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://egnconnectx.com/)
