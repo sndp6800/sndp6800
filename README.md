@@ -89,7 +89,6 @@ Building AI-driven products at the crossroads of **EdTech**, **data**, and **ful
 
 <img src="https://github-readme-stats.shion.dev/api?username=sndp6800&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&show_icons=true" height="165" alt="GitHub Stats"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sndp6800&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak"/>
-
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sndp6800&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact&langs_count=8" height="165" alt="Top Languages"/>
 
 </div>
