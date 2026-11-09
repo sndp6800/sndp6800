@@ -1,130 +1,40 @@
-**💫 About Me:**
-Aspiring Product Manager | Data Analytics & Product Strategy | EdTech Business Development | MCA | MBA
-
 <div align="center">
 
-# Hi, I'm Sandeep 👋
+![Sandeep Pandey — product-focused engineering](assets/profile-header.svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1200&color=00D4FF&center=true&vCenter=true&width=500&lines=AI+Product+Builder;Contributor+of+egnconnectx.com;EdTech+%26+Data+Strategy)](https://git.io/typing-svg)
+**EdTech · Web platforms · Operational systems**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandeeppandey6800/)
-[![Live Site](https://img.shields.io/badge/Live-egnconnectx.com-1453BC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://egnconnectx.com/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sandeeppandey6800@gmail.com)
+[Projects](#selected-work) · [LinkedIn](https://www.linkedin.com/in/sandeeppandey6800/) · [Email](mailto:sandeeppandey6800@gmail.com)
 
 </div>
 
----
+I work at the intersection of product thinking and software development, with a focus on education and the operational workflows behind it. My projects explore how clear interfaces, reliable data and practical automation can turn complex processes into usable products.
 
-## About Me
+## Selected work
 
-```typescript
-const sandeep = {
-  role: "AI Product Builder",
-  education: ["MCA", "MBA"],
-  focus: ["AI Products", "EdTech", "Data Strategy"],
-  building: "egnconnectx.com",
-};
-```
+| Project | Problem and implementation |
+| --- | --- |
+| **SNOT Olympiad Platform** | School onboarding, enrollment, online exams, OMR operations, approved results and fulfillment. Python/SQLite with server-side authorization, regression tests and developer handover documentation. Local staging; developer handover available on request. |
+| **[EGN Connect X](https://github.com/sndp6800/EGN_Connect_X)** | Education-event website covering programme information, registration and exhibitor pages. PHP, HTML, CSS and JavaScript. |
+| **[LapMate](https://github.com/sndp6800/lapmate)** | Student laptop-rental application exploring product browsing, accounts, cart and order workflows with Django. |
+| **[Medicure](https://github.com/sndp6800/medicure)** | Healthcare-interface prototype with doctor, medicine and profile screens. Next.js, TypeScript and Capacitor. |
 
-Building AI-driven products at the crossroads of **EdTech**, **data**, and **full-stack development**.
+## Engineering priorities
 
----
+- **Understand the workflow.** Define who owns each step, what state changes and what can fail.
+- **Protect the boundaries.** Keep authorization and data validation on the server; preserve a useful audit trail.
+- **Make work verifiable.** Pair changes with relevant tests, reproducible setup and clear release notes.
+- **Design for the next developer.** Document the architecture, tradeoffs and unfinished work.
+- **Keep product claims precise.** Distinguish prototypes, tested staging and verified production behavior.
 
+## Current focus
 
----
+Building out SNOT's school and examination workflows, improving developer handover, and connecting operational reporting with carefully scoped AI assistance.
 
-## ⚡ Tech Stack
+**Tools used across these repositories:** Python · Django · JavaScript · TypeScript · React/Next.js · PHP · SQL · Git/GitHub.
 
-### 🤖 AI & Machine Learning
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+## More from the workspace
 
-### 💻 Frontend & UI
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+[Personal portfolio](https://github.com/sndp6800/personal-portfolio) · [School-management prototype](https://github.com/sndp6800/school-management-system) · [Java & DSA practice](https://github.com/sndp6800/JAVA-DSA) · [Angular learning project](https://github.com/sndp6800/project)
 
-### ⚙️ Backend & Cloud
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-### 🗄️ Data & Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
-
----
-
-## 🚀 What I Build
-
-| Domain | Focus |
-|--------|-------|
-| **AI Products** | LLM apps, chatbots, RAG systems, AI copilots |
-| **Data & Analytics** | Dashboards, insights pipelines, product metrics |
-| **EdTech** | Learning platforms, AI tutoring, growth strategy |
-| **Full-Stack** | React / Next.js apps with modern cloud deployment |
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.shion.dev/api?username=sndp6800&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&show_icons=true" height="165" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sndp6800&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak"/>
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sndp6800&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact&langs_count=8" height="165" alt="Top Languages"/>
-
-</div>
-
----
-
-## 🌟 Spotlight — [EGN Connect X](https://egnconnectx.com/)
-
-> **Live at [egnconnectx.com](https://egnconnectx.com/)** · Built & shipped end-to-end
-
-**EGN Connect X** is India's premier **Education Exhibition & Conference** platform — connecting **20,000+ visitors**, **300+ brands**, schools, universities, EdTech innovators, investors, and policymakers at **NESCO Mumbai, Nov 3–4, 2026**.
-
-I designed and developed the full website — event pages, registration flows, stall booking, awards showcase, and a mobile-responsive experience built for scale.
-
-`HTML` · `CSS` · `JavaScript` · `SEO` · `Responsive UI` · `EdTech`
-
----
-
-## 🛠️ Featured Projects
-
-<div align="center">
-
-[![EGN Connect X](https://github-readme-stats.shion.dev/api/pin/?username=sndp6800&repo=EGN_Connect_X&theme=tokyonight&hide_border=true)](https://github.com/sndp6800/EGN_Connect_X)
-[![Medicure](https://github-readme-stats.shion.dev/api/pin/?username=sndp6800&repo=medicure&theme=tokyonight&hide_border=true)](https://github.com/sndp6800/medicure)
-
-[![LapMate](https://github-readme-stats.shion.dev/api/pin/?username=sndp6800&repo=lapmate&theme=tokyonight&hide_border=true)](https://github.com/sndp6800/lapmate)
-[![SNOT Olympiad](https://github-readme-stats.shion.dev/api/pin/?username=sndp6800&repo=snot-olympiad&theme=tokyonight&hide_border=true)](https://github.com/sndp6800/snot-olympiad)
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 *"The best AI products aren't just smart — they're useful."*
-
-<img src="https://komarev.com/ghpvc/?username=sndp6800&label=Profile%20Views&color=00d4ff&style=flat" alt="Profile Views"/>
-
-</div>
+Some repositories preserve earlier learning work. Their READMEs describe the implementation and current limitations rather than presenting every project as production software.
