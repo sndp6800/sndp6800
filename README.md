@@ -14,7 +14,7 @@ I work at the intersection of product thinking and software development, with a 
 
 | Project | Problem and implementation |
 | --- | --- |
-| **SNOT Olympiad Platform** | School onboarding, enrollment, online exams, OMR operations, approved results and fulfillment. Python/SQLite with server-side authorization, regression tests and developer handover documentation. Local staging; developer handover available on request. |
+| **[SNOT Olympiad Platform](https://github.com/sndp6800/snot-platform-handover)** | School onboarding, enrollment, online exams, OMR operations, approved results and fulfillment. Python/SQLite with server-side authorization, regression tests and developer handover documentation. Local staging; tested developer handover in a private repository, with access for authorized collaborators. |
 | **[EGN Connect X](https://github.com/sndp6800/EGN_Connect_X)** | Education-event website covering programme information, registration and exhibitor pages. PHP, HTML, CSS and JavaScript. |
 | **[LapMate](https://github.com/sndp6800/lapmate)** | Student laptop-rental application exploring product browsing, accounts, cart and order workflows with Django. |
 | **[Medicure](https://github.com/sndp6800/medicure)** | Healthcare-interface prototype with doctor, medicine and profile screens. Next.js, TypeScript and Capacitor. |
